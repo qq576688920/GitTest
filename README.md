@@ -4,8 +4,6 @@ Developed with Unreal Engine 4
 
 Developed by superPilipala
 
-测试
-
 ## `Gitflow`工作流
 
 `Gitflow`工作流通过为功能开发、发布准备和维护分配独立的分支，让发布迭代过程更流畅。严格的分支模型也为大型项目提供了一些非常必要的结构。
